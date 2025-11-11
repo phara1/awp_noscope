@@ -9,7 +9,6 @@ using CounterStrikeSharp.API.Modules.Utils;
 
 namespace awp_noscope
 {
-    [MinimumApiVersion(338)]
     public class awp_noscope : BasePlugin
     {
         public override string ModuleAuthor => "keno";
@@ -87,3 +86,4 @@ namespace awp_noscope
         }
     }
 }
+
